@@ -1,6 +1,6 @@
 
 import { connect } from 'cloudflare:sockets';
-
+// dasdjkaskhdkjashdjhaskjdhaksjdhasjkhdkashkdhasdhaskhdkajshdkjashkdjhaskdhksahdksahdkashdasjkdhkasjdhksajd
 
 let userID = '';
 let proxyIP = '';
@@ -4569,4 +4569,5 @@ async function nginx() {
 	`
     return text;
 }
+
 
